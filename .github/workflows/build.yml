@@ -1,27 +1,25 @@
-
 name: Build CybersecurityChatbot
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+on: [push, pull_request]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-    - name: Setup .NET
+    - name: Setup .NET Core
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '8.0.x' # Adjust based on your .NET version
+        dotnet-version: '6.0.x'
 
-    - name: Restore dependencies
+    - name: Install dependencies
       run: dotnet restore
 
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build --configuration Release
 
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal
