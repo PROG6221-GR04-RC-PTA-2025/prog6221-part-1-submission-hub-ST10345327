@@ -1,0 +1,15 @@
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\bin\Debug\net8.0-windows\Audio\welcome.wav
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.exe
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.deps.json
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.runtimeconfig.json
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.dll
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.pdb
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.dll
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\refint\CybersecurityChatbot.dll
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.pdb
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.genruntimeconfig.cache
+C:\Users\CASH\PROG6221-POE-PART1\CybersecurityChatbot\obj\Debug\net8.0-windows\ref\CybersecurityChatbot.dll
