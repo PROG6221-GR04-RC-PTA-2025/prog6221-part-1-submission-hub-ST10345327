@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CASH\\PROG6221-POE-PART1\\CybersecurityChatbot\\CybersecurityChatbot.csproj",
+      "projectUniqueName": "C:\\Users\\CASH\\Desktop\\PROG6221-POE-PART1\\CybersecurityChatbot\\prog6221-part-1-submission-hub-ST10345327\\CybersecurityChatbot.csproj",
       "projectName": "CybersecurityChatbot",
-      "projectPath": "C:\\Users\\CASH\\PROG6221-POE-PART1\\CybersecurityChatbot\\CybersecurityChatbot.csproj",
+      "projectPath": "C:\\Users\\CASH\\Desktop\\PROG6221-POE-PART1\\CybersecurityChatbot\\prog6221-part-1-submission-hub-ST10345327\\CybersecurityChatbot.csproj",
       "packagesPath": "C:\\Users\\CASH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CASH\\PROG6221-POE-PART1\\CybersecurityChatbot\\obj\\",
+      "outputPath": "C:\\Users\\CASH\\Desktop\\PROG6221-POE-PART1\\CybersecurityChatbot\\prog6221-part-1-submission-hub-ST10345327\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CASH\\AppData\\Roaming\\NuGet\\NuGet.Config"
